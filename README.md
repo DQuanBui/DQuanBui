@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **Information Systems (Data Analytics)**
 
-- 💬 Ask me something about **Excel, SQL, and Power BI**
+- 💬 Ask me something about **SQL, Excel and Power BI**
 
 - 📫 How to reach me **https://www.linkedin.com/in/dangquanbui/**
 
-- ⚡ Fun fact **I love basketball, football, and boxing**
+- ⚡ Fun fact **I love chess, soccer, basketball**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
