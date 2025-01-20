@@ -11,8 +11,6 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/dangquanbui/**
 
-- ⚡ Fun fact: **I love playing Chess, Soccer, and Basketball**
-
 - 🔭 My Portfolio: [Portfolio](https://dquanbui.github.io/PortfolioWebsite/)
 
 # 💻 Tech Stack
