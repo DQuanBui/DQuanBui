@@ -30,7 +30,7 @@
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 # 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=DQuanBui&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/> 
+![DQuanBui's Stats](https://github-readme-stats.vercel.app/api?username=DQuanBui&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 # 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_peterquan14_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/dangquanbui/) 
