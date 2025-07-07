@@ -1,13 +1,13 @@
 # 💫 About Me
-<h1 align="center">Hi 👋, I'm Quan, a sophomore at Fordham University!</h1>
+<h1 align="center">Hi👋, I'm Quan, a Junior at Fordham University!</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dbui10&label=Profile%20views&color=0e75b6&style=flat" alt="dbui10" /> </p>
 
 - 👨🏻‍💻 I’m currently studying **Information Systems**
 
-- 🔍 **Data Analyst** & **Business Analyst** & **Data Engineer**
+- 🔍 **Data Analyst/Engineer** & **Business Analyst**
 
-- 💬 Ask me something about **SQL, Python, Tableau, Excel and Power BI**
+- 💬 Ask me something about **SQL, Python, Power BI, and Excel**
 
 - 📫 How to reach me **https://www.linkedin.com/in/dangquanbui/**
 
@@ -33,4 +33,4 @@
 ![DQuanBui's Stats](https://github-readme-stats.vercel.app/api?username=DQuanBui&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 # 🌐 Socials
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_peterquan14_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/dangquanbui/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/dangquanbui/) 
