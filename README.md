@@ -1,5 +1,5 @@
 # 💫 About Me
-<h1 align="center">Hi👋, I'm Quan, a Junior at Fordham University!</h1>
+<h1 align="center">Hi👋, I'm Quan, a Senior at Fordham University!</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dbui10&label=Profile%20views&color=0e75b6&style=flat" alt="dbui10" /> </p>
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/dangquanbui/**
 
-- 🔭 My Portfolio: [Portfolio](https://dquanbui.github.io/PortfolioWebsite/)
+- 🔭 My Portfolio: [Portfolio Website](https://dquanbui.github.io/PortfolioWebsite/)
 
 # 💻 Tech Stack
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
