@@ -29,7 +29,9 @@
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 # 📊 GitHub Stats
-![Quan Stats](https://github-readme-stats.vercel.app/api?username=DQuanBui&show_icons=true&theme=transparent)
+![Quan Stats](https://github-stats-extended.vercel.app/api?username=DQuanBui&show_icons=true&theme=transparent) 
+
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs?username=DQuanBui&layout=compact&theme=transparent)
 
 # 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/dangquanbui/) 
