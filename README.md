@@ -7,7 +7,7 @@
 
 - 🔍 **Analytics Engineer** & **Data/Business Analyst** & **Project/Product Manager**
 
-- 💬 Ask me something about **SQL, Python, Power BI, and Excel**
+- 💬 Ask me something about **SQL, Python, Power BI, and AI**
 
 - 📫 How to reach me **https://www.linkedin.com/in/dangquanbui/**
 
@@ -34,4 +34,4 @@
 ![Top Languages](https://github-stats-extended.vercel.app/api/top-langs?username=DQuanBui&layout=compact&theme=transparent)
 
 # 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/dangquanbui/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dangquanbui/) 
