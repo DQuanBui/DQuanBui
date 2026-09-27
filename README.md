@@ -5,7 +5,7 @@
 
 - 👨🏻‍💻 I’m currently studying **Information Systems**
 
-- 🔍 **Analytics Engineer** & **Data/Business Analyst** & **Project/Product Manager**
+- 🔍 **Analytics Engineer** & **Data/Business Analyst** & **Project/Program Manager**
 
 - 💬 Ask me something about **SQL, Python, Power BI, and AI**
 
